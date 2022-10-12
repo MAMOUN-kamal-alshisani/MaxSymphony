@@ -14,3 +14,6 @@
 
 
 ## `Name: mamoun kamal bursi alshishani`
+
+## `deployed project:`
+### https://mamoun-kamal-alshisani.github.io/MaxSymphony/html/main.html
